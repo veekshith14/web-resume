@@ -1,0 +1,100 @@
+#name {
+    font-family: "roboto",sans-serif;
+    font-size: 20px;
+}
+#profile {
+    border-radius: 50%;
+    box-shadow: rgb(8, 156, 156) 2px 3px 0px;
+    margin: 10px 40px;
+}
+#english {
+    background-color: rgb(8, 156, 156);
+    
+    border-radius: 15px;
+    width: 70%;
+    text-align: center;
+
+}
+#hindi {
+    background-color: rgb(8, 156, 156);
+    color: darkred;
+    border-radius: 15px;
+    width: 70%;
+    text-align: center;
+}
+#telugu {
+    background-color: rgb(8, 156, 156);
+    color: darkred;
+    border-radius: 15px;
+    width: 90%;
+    text-align: center;
+}
+.skill{
+    background-color:white;
+    width: 80%;
+    border-radius: 15px;
+    border: 1px solid rgba(190, 248, 250, 0.986);
+    padding: 1px;
+
+}
+.html{
+    background-color:rgb(8, 156, 156);
+    color: darkred;
+    border-radius: 15px;
+    width: 50%;
+    text-align: center;
+}
+.css{
+    background-color: rgb(8, 156, 156);
+    color: darkred;
+    border-radius: 15px;
+    width: 30%;
+    text-align: center;
+}
+.javascript{
+    background-color: rgb(8, 156, 156);
+    color: darkred;
+    border-radius: 15px;
+    width: 3%;
+    text-align: center;
+
+}
+.body{
+    background-color: rgb(220, 247, 247);
+    width: 20%;
+    box-shadow: rgb(119, 152, 156) 2px 4px 1px;
+
+}
+.text{
+    margin: 10px;
+
+}
+hr{
+    border: 0;
+    border-top: 1px solid rgb(245, 226, 226);
+    margin: 20px;
+}
+.box{
+    float: left;
+    width: 33.33%;
+    
+}
+.right{
+    background-color: rgb(220, 247, 247);
+    width: 20%;
+    box-shadow: rgb(119, 152, 156) 2px 4px 1px;
+    margin: 0px 10px;
+    padding: 10px;
+}
+ .top{
+        background-color: rgb(220, 247, 247);
+    
+        box-shadow: rgb(119, 152, 156) 2px 4px 1px;
+        margin: 0px 10px 10px 10px;
+        padding: 10px;
+ }
+
+ 
+ 
+
+    
